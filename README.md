@@ -9,6 +9,4 @@
 - rm (ReMove)
 - *, ?
 - cat (CATnate)
-- >
-- >>
 - vi
